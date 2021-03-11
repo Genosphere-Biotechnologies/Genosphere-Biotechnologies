@@ -3,9 +3,9 @@
 
 Following an accident at our web host, we have moved our website
 
-We are sorry for the inconvenience and remain available at this address:
+We are sorry for the inconvenience and remain available at this email address:
 
-[genosphere@wanadoo.fr](genosphere@wanadoo.fr)
+[benamira@genosphere-biotech.com](benamira@genosphere-biotech.com)
 
 ### More information
 
