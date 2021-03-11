@@ -10,4 +10,4 @@ We are sorry for the inconvenience and remain available at this email address:
 ### More information
 
 
-XXX
+We will keep you informed of the situation
