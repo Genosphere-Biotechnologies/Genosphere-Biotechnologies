@@ -85,17 +85,20 @@ zur Zeit steht die Website „www.genosphere-biotech.com“ aufgrund eines Bra
 Die Erreichbarkeit der E-Mail Adressen ist davon nicht betroffen.
 Wir bemühen uns unsere Erreichbarkeit so schnell wie möglich wieder herzustellen.
 
-Bitte besuchen  Sie in der Zwischenzeit unsere Website 
-http://www.biomodul.de
+#### Bitte besuchen  Sie in der Zwischenzeit unsere Website 
+### http://www.biomodul.de
 
 Ihr Genosphere Biotechnologies Team - Kundenservice Deutschland.
-### Weitere Informationen dazu erhalten Sie auch unter :  
+
+#### Weitere Informationen dazu erhalten Sie auch unter :  
 E-mail: info@genosphere-biotech.de
+
 ### Unser Angebot: 
 #### Peptidsyntheseservice (biomodul.de)
-Gensyntheseservice (biomodul.de)
-Proteinexpressionsservice (biomodul.de)
-Antikoerperproduktion (biomodul.de)
-Custom Service Genosphere Biotechnologies
-Peptide, synthetische Gene, Proteine und Antikörper. (biomodul.de)
+#### Gensyntheseservice (biomodul.de)
+#### Proteinexpressionsservice (biomodul.de)
+#### Antikoerperproduktion (biomodul.de)
+### Unser Angebot: 
+| **Peptidsyntheseservice**  | [biomodul.de](http://www.biomodul.de/peptidsynthesen/index.php) |
+| **Antikoerperproduktion**   | [biomodul.de](http://www.biomodul.de/antikoerperherstellung/index.php)  |
 
