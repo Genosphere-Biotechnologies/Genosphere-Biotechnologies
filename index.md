@@ -96,10 +96,10 @@ E-mail: [info@genosphere-biotech.de](mailto:info@genosphere-biotech.de)
 
 
 ### Unser Angebot: 
-#### Peptidsyntheseservice ([biomodul.de])(http://www.biomodul.de/peptidsynthesen/index.php)
-#### Antikoerperproduktion ([biomodul.de])(http://www.biomodul.de/antikoerperherstellung/index.php)
-#### Gensyntheseservice ([biomodul.de](http://www.biomodul.de/gensynthese/index.php)
-#### Proteinexpressionsservice [biomodul.de](http://www.biomodul.de/proteinexpression/index.php)
+#### Peptidsyntheseservice  ([biomodul.de](http://www.biomodul.de/peptidsynthesen/index.php))
+#### Antikoerperproduktion  ([biomodul.de](http://www.biomodul.de/antikoerperherstellung/index.php))
+#### Gensyntheseservice  ([biomodul.de](http://www.biomodul.de/gensynthese/index.php))
+#### Proteinexpressionsservice  ([biomodul.de](http://www.biomodul.de/proteinexpression/index.php))
 
 Herzlichen Dank für Ihre Geduld. :-)
 
