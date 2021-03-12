@@ -14,7 +14,7 @@ And you may reach us by email as usual:
 ### Quote requests:
 [quote@genosphere-biotech.com](mailto:quote@genosphere-biotech.com)
 
-### Orders
+### Orders:
 [order@genosphere-biotech.com](mailto:order@genosphere-biotech.com)
 
 ### Customer services:
