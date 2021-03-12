@@ -33,6 +33,42 @@ Thank you very much for your patience. :-)
 
 
 
------->
+
+
+
+
+```sh
+12/03/2021
+www.genosphere-biotech.fr
+```
+
+## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies
+
+### Nous sommes désolés, notre site internet est temporairement inaccessible :-/
+
+Notre serveur est localisé dans l’un des bâtiments du site de Strasbourg de notre partenaire OVH qui a été partiellement endomagé par un incendie.  Tous les efforts sont déployés pour restaurer rapidement la disponibilité en ligne.
+
+Dans le même temps, nos services sont pleinement opérationels et vos commandes sont traitées normalement.
+
+Vous pouvez nous joindre comme d’habitude par courriel:
+
+### Demandes de devis:
+[devis@genosphere-biotech.com](mailto:devis@genosphere-biotech.com)
+
+### Commandes:
+[order@genosphere-biotech.com](mailto:commande@genosphere-biotech.com)
+
+### Service clients:
+[info.fr@genosphere-biotech.com](mailto:info.fr@genosphere-biotech.com)
+
+Avec toutes nos excuses pour les désagréements causés et nos remerciements par avance de votre patience.  :-)
+
+
+
+
+```sh
+12-3-2021
+www.genosphere-biotech.de
+```
 
 
