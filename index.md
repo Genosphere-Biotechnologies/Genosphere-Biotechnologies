@@ -62,7 +62,7 @@ Vous pouvez nous joindre comme d’habitude par courriel:
 ### Service clients:
 [info.fr@genosphere-biotech.com](mailto:info.fr@genosphere-biotech.com)
 
-Avec toutes nos excuses pour les désagréements causés et nos remerciements par avance de votre patience.  :-)
+Avec toutes nos excuses pour les désagréements causés et avec nos remerciements par avance de votre patience.  :-)
 
 
 ```sh
@@ -80,7 +80,7 @@ www.genosphere-biotech.de
 
 
 Sehr geehrte Kunden,
-zur Zeit steht die Website „www.genosphere-biotech.com“ aufgrund eines Brandes in einem Servergebäude des Providers OVH in Strasbourg, Frankreich nicht zur Verfügung.
+zur Zeit steht die Website aufgrund eines Brandes in einem Servergebäude des Providers OVH in Strasbourg, Frankreich nicht zur Verfügung.
 
 Die Erreichbarkeit der E-Mail Adressen ist davon nicht betroffen.
 Wir bemühen uns unsere Erreichbarkeit so schnell wie möglich wieder herzustellen.
@@ -89,20 +89,17 @@ Wir bemühen uns unsere Erreichbarkeit so schnell wie möglich wieder herzustell
 #### http://www.biomodul.de
 
 
-Ihr Genosphere Biotechnologies Team - Kundenservice Deutschland.
+#### Ihr Genosphere Biotechnologies Team - Kundenservice Deutschland.
 
-#### Weitere Informationen dazu erhalten Sie auch unter :  
+Bei Fragen steht Ihnen unser Kundenservice gerne jederzeit zur Verfügung:
 E-mail: info@genosphere-biotech.de
 
 
 ### Unser Angebot: 
-#### Peptidsyntheseservice (biomodul.de)
-#### Gensyntheseservice (biomodul.de)
-#### Proteinexpressionsservice (biomodul.de)
-#### Antikoerperproduktion (biomodul.de)
+#### Peptidsyntheseservice [biomodul.de](http://www.biomodul.de/peptidsynthesen/index.php)
+#### Antikoerperproduktion [biomodul.de](http://www.biomodul.de/antikoerperherstellung/index.php)
+#### Gensyntheseservice ([biomodul.de](http://www.biomodul.de/gensynthese/index.php)
+#### Proteinexpressionsservice [biomodul.de](http://www.biomodul.de/proteinexpression/index.php)
 
-### Unser Angebot: 
-| Peptidsyntheseservice | [biomodul.de](http://www.biomodul.de/peptidsynthesen/index.php) |
-
-| Antikoerperproduktion   | [biomodul.de](http://www.biomodul.de/antikoerperherstellung/index.php)  |
+Herzlichen Dank für Ihre Geduld. :-)
 
