@@ -1,17 +1,25 @@
-## Welcome to Genosphere Biotechnologies
+## Welcome to Genosphere Biotechnologies' temporary web page
+
+### We are sorry, unfortunately, our web site server is down :-/
 
 
+Our hosting partner is currently facing a major incident in the Data Center that held our server. We are mobilising every effort to fix this situation.
 
+Please accept our apologies for any inconveniences.  
 
-Following an accident at our web host, we have moved our website
+In the mean time your on-going orders are being processed normally,
 
-We are sorry for the inconvenience and remain available at this email address:
+and you may reach us by email as usual:
 
+### Quote requests:
+[quote@genosphere-biotech.com](mailto:quote@genosphere-biotech.com)
+
+### Orders
+[order@genosphere-biotech.com](mailto:order@genosphere-biotech.com)
+
+### Customer services:
 [info@genosphere-biotech.com](mailto:info@genosphere-biotech.com)
 
-### More information
-
-
-We will keep you informed of the situation
+Thank you very much for your patience.
 
 
