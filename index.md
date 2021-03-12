@@ -32,9 +32,10 @@ Thank you very much for your patience. :-)
 
 
 
+```sh
 
 
-
+```
 
 
 ```sh
@@ -64,6 +65,10 @@ Vous pouvez nous joindre comme d’habitude par courriel:
 Avec toutes nos excuses pour les désagréements causés et nos remerciements par avance de votre patience.  :-)
 
 
+```sh
+
+
+```
 
 
 ```sh
@@ -71,4 +76,26 @@ Avec toutes nos excuses pour les désagréements causés et nos remerciements pa
 www.genosphere-biotech.de
 ```
 
+## Willkommen auf der temporären Webseite von Genosphere Biotechnologies
+
+
+Sehr geehrte Kunden,
+zur Zeit steht die Website „www.genosphere-biotech.com“ aufgrund eines Brandes in einem Servergebäude des Providers OVH in Strasbourg, Frankreich nicht zur Verfügung.
+
+Die Erreichbarkeit der E-Mail Adressen ist davon nicht betroffen.
+Wir bemühen uns unsere Erreichbarkeit so schnell wie möglich wieder herzustellen.
+
+Bitte besuchen  Sie in der Zwischenzeit unsere Website 
+http://www.biomodul.de
+
+Ihr Genosphere Biotechnologies Team - Kundenservice Deutschland.
+### Weitere Informationen dazu erhalten Sie auch unter :  
+E-mail: info@genosphere-biotech.de
+### Unser Angebot: 
+#### Peptidsyntheseservice (biomodul.de)
+Gensyntheseservice (biomodul.de)
+Proteinexpressionsservice (biomodul.de)
+Antikoerperproduktion (biomodul.de)
+Custom Service Genosphere Biotechnologies
+Peptide, synthetische Gene, Proteine und Antikörper. (biomodul.de)
 
