@@ -1,5 +1,4 @@
 ```sh
-12-3-2021
 www.genosphere-biotech.com
 wwww.genosphere.co.uk
 ```
@@ -39,7 +38,6 @@ Thank you very much for your patience. :-)
 
 
 ```sh
-12/03/2021
 www.genosphere-biotech.fr
 ```
 
@@ -72,7 +70,6 @@ Avec toutes nos excuses pour les désagréements causés et avec nos remerciemen
 
 
 ```sh
-12-3-2021
 www.genosphere-biotech.de
 ```
 
