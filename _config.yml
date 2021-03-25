@@ -1,5 +1,6 @@
 title: Custom Services for Research
 logo: ./logo.jpg
 theme: jekyll-theme-minimal
+show_downloads: Yes
 github:
   is_project_page: False
