@@ -8,9 +8,7 @@ wwww.genosphere.co.uk
 
 Please accept our apologies for any inconveniences.
 
-And you may reach us by email as usual:
-
-
+And you may reach us by email as usual.
 
 
 ### • Customer services:
