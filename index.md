@@ -4,17 +4,9 @@ wwww.genosphere.co.uk
 ```
 
 
-
-## Welcome to Genosphere Biotechnologies' temporary web page
-
-### We are sorry, unfortunately, our web site server is down :-/
-
-Our hosting partner is currently facing a major incident in the Data Center that held our server.  Every effort is engaged to fix this situation.
+# SYSTEM MAINTENANCE
 
 Please accept our apologies for any inconveniences.
-
-In the mean time, operations are fully running and all your orders are being processed normally.
-
 
 And you may reach us by email as usual:
 
@@ -41,13 +33,9 @@ Thank you very much for your patience. :-)
 www.genosphere-biotech.fr
 ```
 
-## Bienvenue sur la page internet temporaire de Genosphere Biotechnologies
+# SITE EN MAINTENANCE
 
-### Nous sommes désolés, notre site internet est temporairement inaccessible :-/
-
-Notre serveur est localisé dans l’un des bâtiments du site de Strasbourg de notre partenaire OVH qui a été partiellement endomagé par un incendie.  Tous les efforts sont déployés pour restaurer rapidement la disponibilité en ligne.
-
-Dans le même temps, nos services sont pleinement opérationels et vos commandes sont traitées normalement.
+### Nous sommes désolés, notre site internet est temporairement inaccessible
 
 Vous pouvez nous joindre comme d’habitude par courriel:
 
@@ -73,16 +61,7 @@ Avec toutes nos excuses pour les désagréements causés et avec nos remerciemen
 www.genosphere-biotech.de
 ```
 
-## Willkommen auf der temporären Webseite von Genosphere Biotechnologies
-
-
-Sehr geehrte Kunden,
-zur Zeit steht die Website aufgrund eines Brandes in einem Servergebäude des Providers OVH in Strasbourg, Frankreich nicht zur Verfügung.
-
-Die Erreichbarkeit der E-Mail Adressen ist davon nicht betroffen.
-Wir bemühen uns unsere Erreichbarkeit so schnell wie möglich wieder herzustellen.
-
-
+# SYSTEM MAINTENANCE
 
 
 ### Ihr Genosphere Biotechnologies Team - Kundenservice Deutschland.
