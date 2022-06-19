@@ -10,14 +10,20 @@ Please accept our apologies for any inconveniences.
 
 And you may reach us by email as usual:
 
-### Quote requests:
-[quote@genosphere-biotech.com](mailto:quote@genosphere-biotech.com)
 
-### Orders:
-[order@genosphere-biotech.com](mailto:order@genosphere-biotech.com)
 
-### Customer services:
-[info@genosphere-biotech.com](mailto:info@genosphere-biotech.com)
+
+### • Customer services:
+### [info@genosphere-biotech.com](mailto:info@genosphere-biotech.com)
+
+
+### • Quote requests:
+### [quote@genosphere-biotech.com](mailto:quote@genosphere-biotech.com)
+
+
+### • Orders:
+### [order@genosphere-biotech.com](mailto:order@genosphere-biotech.com)
+
 
 Thank you very much for your patience. :-)
 
@@ -35,20 +41,22 @@ www.genosphere-biotech.fr
 
 # SITE EN MAINTENANCE
 
-### Nous sommes désolés, notre site internet est temporairement inaccessible
+Nous sommes désolés, notre site internet est temporairement inaccessible.
 
 Vous pouvez nous joindre comme d’habitude par courriel:
 
-### Demandes de devis:
-[devis@genosphere-biotech.com](mailto:devis@genosphere-biotech.com)
+### • Service clients:
+### [info.fr@genosphere-biotech.com](mailto:info.fr@genosphere-biotech.com)
 
-### Commandes:
-[order@genosphere-biotech.com](mailto:commande@genosphere-biotech.com)
+### • Demandes de devis:
+### [devis@genosphere-biotech.com](mailto:devis@genosphere-biotech.com)
 
-### Service clients:
-[info.fr@genosphere-biotech.com](mailto:info.fr@genosphere-biotech.com)
+### • Commandes:
+### [order@genosphere-biotech.com](mailto:commande@genosphere-biotech.com)
 
-Avec toutes nos excuses pour les désagréements causés et avec nos remerciements par avance de votre patience.  :-)
+
+
+Avec toutes nos excuses pour les désagréements causés et nos remerciements de votre patience.  :-)
 
 
 ```sh
@@ -68,7 +76,7 @@ www.genosphere-biotech.de
 
 #### Bitte besuchen  Sie in der Zwischenzeit unsere Website:  [biomodul.de](http://www.biomodul.de)
 
-Bei Fragen steht Ihnen unser Kundenservice gerne jederzeit zur Verfügung:
+Bei Fragen steht Ihnen unser **Kundenservice** gerne jederzeit zur Verfügung:
 
 E-mail: [info@genosphere-biotech.de](mailto:info@genosphere-biotech.de)
 
