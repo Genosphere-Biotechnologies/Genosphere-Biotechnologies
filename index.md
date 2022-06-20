@@ -23,8 +23,7 @@ And you may reach us by email as usual.
 ### [order@genosphere-biotech.com](mailto:order@genosphere-biotech.com)
 
 
-Thank you very much for your patience. :-)
-
+Thank you very much for your patience.
 
 
 ```sh
@@ -54,7 +53,7 @@ Vous pouvez nous joindre comme d’habitude par courriel:
 
 
 
-Avec toutes nos excuses pour les désagréements causés et nos remerciements de votre patience.  :-)
+Avec toutes nos excuses pour les désagréements causés et nos remerciements de votre patience.
 
 
 ```sh
@@ -87,5 +86,4 @@ E-mail: [Bestellung@genosphere-biotech.de](mailto:Bestellung@genosphere-biotech
 #### Gensyntheseservice  ([biomodul.de](http://www.biomodul.de/gensynthese/index.php))
 #### Proteinexpressionsservice  ([biomodul.de](http://www.biomodul.de/proteinexpression/index.php))
 
-Herzlichen Dank für Ihre Geduld. :-)
-
+Herzlichen Dank für Ihre Geduld.
