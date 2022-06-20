@@ -75,10 +75,10 @@ www.genosphere-biotech.de
 
 Bei Fragen steht Ihnen unser **Kundenservice** gerne jederzeit zur Verfügung:
 
-E-mail: [info@genosphere-biotech.de](mailto:info@genosphere-biotech.de)
+###  [info@genosphere-biotech.de](mailto:info@genosphere-biotech.de)
 
-### Bestellen: 
-E-mail: [Bestellung@genosphere-biotech.de](mailto:Bestellung@genosphere-biotech.de)
+### • Bestellen: 
+###  [Bestellung@genosphere-biotech.de](mailto:Bestellung@genosphere-biotech.de)
 
 ### Unser Angebot: 
 #### Peptidsyntheseservice  ([biomodul.de](http://www.biomodul.de/peptidsynthesen/index.php))
